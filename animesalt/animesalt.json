@@ -1,6 +1,6 @@
 {
-  "id": "animesalt",
-  "name": "AnimeSalt",
+  "id": "1hindi",
+  "name": "AnimeSalthindi",
   "description": "AnimeSalt provider for streaming anime",
   "manifestURI": "https://raw.githubusercontent.com/Gametime-Studies/seanime-extensions/main/animesalt/animesalt.json",
   "version": "1.0.0",
