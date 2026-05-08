@@ -15,7 +15,7 @@ Online streaming provider extension for [Seanime](https://seanime.rahim.app/) th
 2. Go to Extensions settings
 3. Add this manifest URL:
    ```
-   https://raw.githubusercontent.com/Gametime-Studies/seanime-extensions/main/animesalt/animesalt.json
+   https://raw.githubusercontent.com/gametimeakhtab/seanime-extensition.json
    ```
 
 ## Requirements
