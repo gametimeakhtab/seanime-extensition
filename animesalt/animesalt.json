@@ -7,7 +7,7 @@
   "author": "Gametime_Studies",
   "type": "onlinestream-provider",
   "language": "javascript",
-  "lang": "en,hindi,jpn",
+  "lang": "multi",
   "payload": "",
   "payloadURI": "https://raw.githubusercontent.com/gametimeakhtab/seanime-extensition.js"
 }
