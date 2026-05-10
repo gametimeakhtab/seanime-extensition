@@ -29,7 +29,7 @@ class Provider {
                     id: url,
                     title: title,
                     url: url,
-                    subOrDub: "sub",
+                    subOrDub: opts.dub ? "dub" : "sub",
                 })
             }
         })
