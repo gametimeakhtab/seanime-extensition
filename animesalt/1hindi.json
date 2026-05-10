@@ -3,7 +3,7 @@
   "name": "AnimeSalt",
   "description": "AnimeSalt provider for streaming anime",
   "manifestURI": "https://raw.githubusercontent.com/gametimeakhtab/seanime-extensition/refs/heads/main/animesalt/1hindi.json",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Gametime_Studies",
   "type": "onlinestream-provider",
   "language": "javascript",
