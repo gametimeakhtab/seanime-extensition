@@ -1,6 +1,6 @@
 {
-  "id": "1hindi",
-  "name": "AnimeSalthindi",
+  "id": "animesalt",
+  "name": "AnimeSalt",
   "description": "AnimeSalt provider for streaming anime",
   "manifestURI": "https://raw.githubusercontent.com/gametimeakhtab/seanime-extensition/refs/heads/main/animesalt/1hindi.json",
   "version": "1.0.0",
@@ -9,5 +9,5 @@
   "language": "javascript",
   "lang": "multi",
   "payload": "",
-  "payloadURI": "https://raw.githubusercontent.com/gametimeakhtab/seanime-extensition/refs/heads/main/animesalt/1hindi.json"
+  "payloadURI": "https://raw.githubusercontent.com/gametimeakhtab/seanime-extensition/refs/heads/main/animesalt/provider.js"
 }
