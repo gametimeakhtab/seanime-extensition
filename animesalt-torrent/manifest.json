@@ -3,7 +3,7 @@
   "name": "AnimeSalt Torrent",
   "description": "AnimeSalt torrent provider powered by Nyaa.si with smart search, batch, episode, resolution and best-releases filtering.",
   "manifestURI": "https://raw.githubusercontent.com/gametimeakhtab/seanime-extensition/refs/heads/main/animesalt-torrent/manifest.json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Gametime_Studies",
   "type": "torrent-provider",
   "language": "javascript",
