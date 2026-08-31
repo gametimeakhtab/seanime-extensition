@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "manifestURI": "https://raw.githubusercontent.com/gametimeakhtab/seanime-extensition/refs/heads/main/animesalt-torrent/manifest.json",
   "language": "typescript",
-  "type": "torrent-provider",
+  "type": "anime-torrent-provider",
   "description": "AnimeSalt is an anime torrent provider that searches Nyaa.si for anime torrents with smart search, batch, episode, resolution, and best-releases filtering.",
   "author": "Gametime_Studies",
   "icon": "https://raw.githubusercontent.com/gametimeakhtab/seanime-extensition/refs/heads/main/animesalt-torrent/icon.png",
